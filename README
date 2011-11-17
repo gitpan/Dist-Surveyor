@@ -1,0 +1,10 @@
+NAME
+    Dist::Surveyor - Survey installed modules and determine the specific
+    distribution versions they came from
+
+VERSION
+    version 0.001
+
+SYNOPSIS
+    See dist_surveyor for documentation.
+
