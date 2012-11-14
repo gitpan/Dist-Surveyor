@@ -1,6 +1,6 @@
 package Dist::Surveyor;
 {
-  $Dist::Surveyor::VERSION = '0.006';
+  $Dist::Surveyor::VERSION = '0.007';
 }
 
 =head1 NAME
@@ -9,7 +9,7 @@ Dist::Surveyor - Survey installed modules and determine the specific distributio
 
 =head1 VERSION
 
-version 0.006
+version 0.007
 
 =head1 SYNOPSIS
 
@@ -25,7 +25,7 @@ use Carp; # core
 use Config; # core
 use CPAN::DistnameInfo;
 use Data::Dumper; # core
-use DBI qw(looks_like_number); # core
+use Scalar::Util qw(looks_like_number); # core
 use Fcntl qw(:DEFAULT :flock); # core
 use File::Basename qw{dirname};  # core
 use File::Find;  # core
