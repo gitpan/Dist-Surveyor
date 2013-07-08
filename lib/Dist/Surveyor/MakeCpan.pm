@@ -1,6 +1,6 @@
 package Dist::Surveyor::MakeCpan;
 {
-  $Dist::Surveyor::MakeCpan::VERSION = '0.010';
+  $Dist::Surveyor::MakeCpan::VERSION = '0.011';
 }
 use strict;
 use warnings;
@@ -304,7 +304,7 @@ Dist::Surveyor::MakeCpan - Create a Mini-CPAN for the surveyed modules
 
 =head1 VERSION
 
-version 0.010
+version 0.011
 
 =head1 SYNOPSIS
 

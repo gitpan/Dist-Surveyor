@@ -1,6 +1,6 @@
 package Dist::Surveyor::DB_File;
 {
-  $Dist::Surveyor::DB_File::VERSION = '0.010';
+  $Dist::Surveyor::DB_File::VERSION = '0.011';
 }
 use strict;
 use warnings;
