@@ -3,7 +3,7 @@ NAME
     distribution versions they came from
 
 VERSION
-    version 0.011
+    version 0.013
 
 SYNOPSIS
         my $options = {
